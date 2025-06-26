@@ -1,4 +1,4 @@
-ZMK Cradio/Sweep untuk Super Mini / Promicro Wireless NRF52840.
+ZMK Cradio/Sweep untuk Super Mini / Promicro Wireless NRF52840. 
 
 ZMK Codes Docs https://zmk.dev/docs/codes
 
